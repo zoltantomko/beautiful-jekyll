@@ -1,8 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 title: Completion of git tutorial
 ---
-![zoltan_tomko_git.PNG]({{site.baseurl}}/img/zoltan_tomko_git.PNG)## A New Post
+
+
+![zoltan_tomko_git.PNG](/img/zoltan_tomko_git.PNG)
+
+## A New Post
 
 I completed the git tutorial.
