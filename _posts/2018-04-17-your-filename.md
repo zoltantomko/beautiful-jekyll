@@ -7,4 +7,4 @@ title: 'Completion of the first two units of the Python tutorial'
 
 I have completed the first two units of the Python tutorial.
 
-!(zoltantomko.github.io/img/zoltan_tomko_python.PNG)
+! (zoltantomko.github.io/img/zoltan_tomko_python.PNG)
