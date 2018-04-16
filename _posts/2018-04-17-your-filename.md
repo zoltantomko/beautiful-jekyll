@@ -1,12 +1,10 @@
 ---
 layout: post
-published: false
-title: ''
+published: true
+title: 'Completion of the first two units of the Python tutorial'
 ---
 ## A New Post
 
-Completion of the first two units of the Python tutorial
+I have completed the first two units of the Python tutorial
 
-![zoltan_tomko_python.PNG]({{site.baseurl}}/img/zoltan_tomko_python.PNG)
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![zoltan_tomko_python.PNG]({/img/zoltan_tomko_python.PNG)
