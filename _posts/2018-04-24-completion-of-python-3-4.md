@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 2018-04-24-completion-of-python-3-4
+title: Completion of units 3 and 4 in Python
 ---
 ![zoltan_tomko_python_3_4.PNG](/img/zoltan_tomko_python_3_4.PNG)
 
