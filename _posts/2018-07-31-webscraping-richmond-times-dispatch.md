@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Webscraping - Richmond Times Dispatch
 ---
 These are the steps I took in order to download the issues of "Richmond Times Dispatch" from the website of the Perseus Project:
