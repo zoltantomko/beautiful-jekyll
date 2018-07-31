@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Completion of the ninth and tenth unit of the Python tutorial
 ---
 ![zoltan_tomko_python_9_10.PNG](/img/zoltan_tomko_python_9_10.PNG)
