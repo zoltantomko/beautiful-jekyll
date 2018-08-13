@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Geoferencing
 ---
 ![qgis_american_civil_war.PNG](/img/qgis_american_civil_war.PNG)
