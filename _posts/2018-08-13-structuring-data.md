@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Structuring Data
 ---
 This exercise was not very difficult, but kind of tricky. It was easier to solve because we could use the code from the last assignment, we just had to modify it a little bit to make sure that we get one tsv file in the end. It was helpful that we had a discussion about how to solve this assignment with the others from our group, there were several ideas that could equally work. My code was still not perfect for a long time, even though the brainstorming definitely helped, but eventually I realized that my code was not working because I was sloppy and forgot to add one small line. After I realized what the problem was, my code worked perfectly.
