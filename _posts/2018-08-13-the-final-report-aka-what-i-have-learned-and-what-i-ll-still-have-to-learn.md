@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The final report aka what I have learned and what I'll still have to learn
 ---
 1. I have learned much, but I'll have to learn much more. I think now I have the basics that I'll need, but I would not dare to say that I would be a specialist in any of the programs we used this semester.
